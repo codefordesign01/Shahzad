@@ -311,7 +311,7 @@ const projects = [
   {
     name: "Targeted Tax Relief",
     description:
-      "argeted Tax Relief (TTR) is a U.S.-based tax resolution firm led by licensed Enrolled Agent Tracy Janssen, who has over 10 years of experience handling IRS and state tax issues. TTR offers personalized solutions for individuals, businesses, and nonprofits facing tax challenges.",
+      "Targeted Tax Relief (TTR) is a U.S.-based tax resolution firm led by licensed Enrolled Agent Tracy Janssen, who has over 10 years of experience handling IRS and state tax issues. TTR offers personalized solutions for individuals, businesses, and nonprofits facing tax challenges.",
     tags: [
       {
         name: "landing page",
