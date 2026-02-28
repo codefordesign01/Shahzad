@@ -13,7 +13,7 @@ import canva from "./tech/canva.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import bootstrap from "./tech/bootstrap.png";
+import bootstrap from "./tech/Bootstrap.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import office from "./tech/office.png";
